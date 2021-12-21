@@ -1,0 +1,4 @@
+baseURL = "https://alb-dev.github.io/"
+languageCode = "de-de"
+title = "sixspeck"
+theme = "navigator-hugo"
