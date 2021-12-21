@@ -1,6 +1,6 @@
-baseURL = "https://alb-dev.github.io/sixspeck.github.io/"
+baseURL = "https://demo.gethugothemes.com/navigator/"
 languageCode = "en-us"
-title = "Sixspeck"
+title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
 summaryLength = 10
 
