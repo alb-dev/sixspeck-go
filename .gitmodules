@@ -1,0 +1,4 @@
+[submodule "sixspeck.github.io/public"]
+	path = sixspeck.github.io/public
+	url = https://github.com/alb-dev/sixspeck.github.io.git
+	branch = main
