@@ -1,4 +1,4 @@
-baseURL = "https://alb-dev.github.io/"
-languageCode = "de-de"
+baseURL = "https://sixspeck.github.io/"
+languageCode = "en-us"
 title = "sixspeck"
 theme = "navigator-hugo"
