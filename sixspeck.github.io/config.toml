@@ -67,41 +67,22 @@ videoURL   = "https://www.youtube.com/embed/btPJPFnesV4"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "Wir haben uns öffentliche Gyms für eine lange Zeit angeschaut"
+description = "Der Erfolg in öffentlichen Gyms mag durchausgegeben sein, jedoch konnte ein intensives Training nur im Sixspeck durchgeführt werden wo wir auf unsere eingene Kompetenzn zurück greifen konnten."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = true
 topTitle= "OUR UNTOLD STORY"
 title   = "Blog."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-
-# Contact Section
-[Languages.en.params.contact]
-enable  = true
-topTitle= "DROP US A NOTE"
-title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
-facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin= "https://www.linkedin.com/"
-dribbble= "https://dribbble.com/"
-instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
-mapMarker   = "images/marker.png"
+subtitle= "No pain no gain"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Contact Us"
+title   = "Workout together get stronger together"
+subtitle= "Nur im Team ist mit man stark und das gleich gilt auch für einen soliden workout"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
@@ -117,12 +98,12 @@ name    = "service"
 url     = "service"
 weight  = 3
 [[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
+name    = "workout"
+url     = "workout"
 weight  = 4
 [[menu.nav]]
-name    = "blog"
-url     = "blog"
+name    = "protein"
+url     = "protein"
 weight  = 5
 [[menu.nav]]
 name    = "contact"
@@ -131,17 +112,13 @@ weight  = 6
 
 # Footer Service Menu
 [[menu.service]]
-name    = "graphicdesign"
+name    = "Workout"
 url     = "service"
 weight  = 1
 [[menu.service]]
-name    = "webdesign"
+name    = "training"
 url     = "service"
 weight  = 2
-[[menu.service]]
-name    = "webdevelopment"
-url     = "service"
-weight  = 3
 
 # Footer Quick links Menu
 [[menu.quicklink]]
@@ -149,14 +126,6 @@ name    = "partners"
 url     = "about"
 weight  = 1
 [[menu.quicklink]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.quicklink]]
 name    = "faqs"
 url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4
+weight  = 2
